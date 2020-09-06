@@ -17,9 +17,9 @@
 <hr></hr>
 
 - 🔭 I’m currently available for freelance work
-- 🌱 I’m currently learning React, Machine Learning,etc
+- 🌱 I’m currently learning React, Machine Learning, etc
 - 💬 Ask me about front-end, back-end and machine learning algorithms.
-- 📫 How to reach me: siddharthsingh.co.in
+- 📫 How to reach me: https://siddharthsingh.co.in
 - ⚡ Fun fact: Yot get only one life, make it count !!
 
 <hr />
