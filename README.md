@@ -2,6 +2,9 @@
 
 #### I'm Siddharth Singh, a full stack developer, an aspiring data scientist, and a guy slightly obsessed for code quality. I’m currently available for freelance work. If you have a project that you want to get started or think you need my help with something, then get in touch.
 
+### What I do
+  <li>Front End Developer</li>
+
 
 ![Siddharth's github stats](https://github-readme-stats.vercel.app/api?username=Sid22031998&show_icons=true&theme=dark)
 
