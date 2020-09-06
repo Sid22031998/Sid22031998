@@ -3,7 +3,14 @@
 #### I'm Siddharth Singh, a full stack developer, an aspiring data scientist, and a guy slightly obsessed for code quality. I’m currently available for freelance work. If you have a project that you want to get started or think you need my help with something, then get in touch.
 
 ### What I do
-  <li>Front End Developer</li>
+  #### Front End
+  As a front-end developer, I have experience in HTML5 and CSS3 techniques working with jQuery or more advanced javascript libraries such as react.
+  
+  #### Back End
+  Worked on various back-end projects using express such as REST API, chat application, social-media app, etc.
+  
+  #### Aspriring Data Scientist
+  New to the field but thrive to be better as days pass by.
 
 
 ![Siddharth's github stats](https://github-readme-stats.vercel.app/api?username=Sid22031998&show_icons=true&theme=dark)
