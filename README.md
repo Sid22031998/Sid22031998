@@ -16,6 +16,13 @@
   
 <hr></hr>
 
+- 🔭 I’m currently available for freelance work
+- 🌱 I’m currently learning React, Machine Learning,etc
+- 💬 Ask me about front-end, back-end and machine learning algorithms.
+- 📫 How to reach me: siddharthsingh.co.in
+- ⚡ Fun fact: Yot get only one life, make it count !!
+
+<hr />
 
 ![Siddharth's github stats](https://github-readme-stats.vercel.app/api?username=Sid22031998&show_icons=true&theme=dark)
 
@@ -26,7 +33,7 @@
 **Sid22031998/Sid22031998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
--->
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -36,4 +43,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 
