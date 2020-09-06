@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+#### Hello! I'm Siddharth Singh, a full stack developer, an aspiring data scientist, and a guy slightly obsessed for code quality. I’m currently available for freelance work. If you have a project that you want to get started or think you need my help with something, then get in touch.
+
 <!--
 **Sid22031998/Sid22031998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
