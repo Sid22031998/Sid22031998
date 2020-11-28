@@ -6,7 +6,7 @@
 
 ## What I do
   #### Front End
-  As a front-end developer, I have experience in HTML5 and CSS3 techniques working with jQuery or more advanced javascript libraries such as react.
+  As a front-end developer, I have experience in HTML5, CSS3 and jQuery or more advanced javascript libraries such as <b>React</b> and frameworks like <b>Angular</b>.
   
   #### Back End
   Worked on various back-end projects using express such as REST API, chat application, social-media app, etc.
