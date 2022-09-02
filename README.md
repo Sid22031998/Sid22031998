@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm Siddharth Singh, a full stack developer, an aspiring data scientist, and a guy slightly obsessed for code quality. I’m currently available for freelance work. If you have a project that you want to get started or think you need my help with something, then get in touch.
+#### I'm Siddharth Singh. I have 2+ years of experience working as a Specialist Programmer in Infosys. I am a dedicated, hard-working, and proactive engineer with a bachelor's degree in Computer Science Engineering having experience working both as a Full Stack Developer and DevOps Engineer.
 
 <hr></hr>
 
@@ -9,7 +9,7 @@
   As a front-end developer, I have experience in HTML5, CSS3 and jQuery or more advanced javascript libraries such as <b>React</b> and frameworks like <b>Angular</b>.
   
   #### Back End
-  Worked on various back-end projects using express such as REST API, chat application, social-media app, etc.
+  Working as a backend and python developer. Responsible for API creation, functional implementation, and tool enhancements.
   
   #### Aspriring Data Scientist
   New to the field but thrive to be better as days pass by.
