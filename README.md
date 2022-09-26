@@ -30,6 +30,8 @@ Leetcode (200+): https://leetcode.com/Siddharth_singh/ <br>
 Coding Ninjas (Specialist): https://www.codingninjas.com/codestudio/profile/19ffd1d8-1bd2-4984-b971-bcd3b1c3cd9c <br>
 Hackerrank (5 ⭐): https://www.hackerrank.com/siddharth_sing16 
 
+<hr>
+
 ![Siddharth's github stats](https://github-readme-stats.vercel.app/api?username=Sid22031998&show_icons=true&theme=dark)
 
 
