@@ -24,13 +24,13 @@
 
 <hr />
 
-<hr></hr>
+<hr>
 
 ## Coding Profiles
 
-### Leetcode (200+): https://leetcode.com/Siddharth_singh/ 
-### Coding Ninjas (Specialist): https://www.codingninjas.com/codestudio/profile/19ffd1d8-1bd2-4984-b971-bcd3b1c3cd9c
-### Hackerrank (5 ⭐): https://www.hackerrank.com/siddharth_sing16 
+Leetcode (200+): https://leetcode.com/Siddharth_singh/ 
+Coding Ninjas (Specialist): https://www.codingninjas.com/codestudio/profile/19ffd1d8-1bd2-4984-b971-bcd3b1c3cd9c
+Hackerrank (5 ⭐): https://www.hackerrank.com/siddharth_sing16 
 
 <hr />
 
