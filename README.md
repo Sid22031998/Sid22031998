@@ -26,7 +26,7 @@
 
 ## Coding Profiles
 
-Leetcode (250+): https://leetcode.com/Siddharth_singh/ <br>
+Leetcode (300+): https://leetcode.com/Siddharth_singh/ <br>
 Coding Ninjas (Expert): https://www.codingninjas.com/codestudio/profile/Siddharth_Singh <br>
 Hackerrank (5 ⭐): https://www.hackerrank.com/siddharth_sing16 
 
