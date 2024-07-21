@@ -1,32 +1,32 @@
 ### Hi there 👋
 
-#### I'm Siddharth Singh. I have 2+ years of experience working as a Specialist Programmer in Infosys. I am a dedicated, hard-working, and proactive engineer with a bachelor's degree in Computer Science Engineering having experience working both as a Full Stack Developer and DevOps Engineer.
+#### For over 4 years, I've been immersed in the realm of Software Engineering, bringing dedication, diligence, and proactive problem- solving to the table. Holding a bachelor's degree in Computer Science Engineering, my expertise spans across roles as a Full Stack Developer. My strength lies not only in technical proficiency but also in effective collaboration, bridging the gap between technical and non-technical teams seamlessly.
 
 <hr></hr>
 
 ## What I do
-  #### Front End
-  As a front-end developer, I have experience in HTML5, CSS3 and jQuery or more advanced javascript libraries such as <b>React</b> and frameworks like <b>Angular</b>.
-  
   #### Back End
-  Working as a backend and python developer. Responsible for API creation, functional implementation, and tool enhancements.
+  As a backend developer, my primary focus is integrating the product, customizing functionality, and ensuring seamless operation. I manage API integrations, server-side logic, and security measures, ensuring a robust backend infrastructure. Proficient in Java, Python, and PHP, I ensure versatility across various programming languages to meet project requirements effectively.
   
-  #### Aspriring Data Scientist
-  New to the field but thrive to be better as days pass by.
+  #### Front End
+  As a developer, my focus lies primarily on tasks such as creating responsive interfaces and optimizing performance on the frontend, leveraging technologies like React.js. My role also includes debugging, testing, and deploying the application for a smooth user experience. Additionally, I utilize Node.js for server-side logic and integration with platforms like DronaHQ for enhanced functionality.
+  
+  #### DevOps
+  Collaborated closely with development and DevOps teams to establish and reinforce robust automation processes, including the use of shell scripting and Kubernetes (K8s) for container orchestration. This collaboration involved streamlining workflows, implementing best practices, and integrating advanced tools. As a result, the efficiency of the team increased by 26%, leading to faster deployment cycles, reduced errors, and improved overall productivity.
   
 <hr></hr>
 
 - 🔭 I’m currently available for freelance work
-- 🌱 I’m currently learning React, Machine Learning, etc
-- 💬 Ask me about front-end, back-end and machine learning algorithms.
+- 🌱 I’m currently learning LLM, Machine Learning, etc
+- 💬 Ask me about front-end, back-end, and machine learning algorithms.
 - 📫 How to reach me: https://siddharthsingh.co.in
-- ⚡ Fun fact: Yot get only one life, make it count !!
+- ⚡ Fun fact: You get only one life, make it count !!
 
 <hr />
 
 ## Coding Profiles
 
-Leetcode (300+): https://leetcode.com/Siddharth_singh/ <br>
+Leetcode (350+): https://leetcode.com/Siddharth_singh/ <br>
 Coding Ninjas (Expert): https://www.codingninjas.com/codestudio/profile/Siddharth_Singh <br>
 Hackerrank (5 ⭐): https://www.hackerrank.com/siddharth_sing16 
 
